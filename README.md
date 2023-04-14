@@ -12,10 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abneka&theme=dark&hide_border=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abneka&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abneka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 ### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
